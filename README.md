@@ -10,4 +10,4 @@ Every class is organized in its own **branch** with supporting resources in the 
 Whether you are a beginner or revising your basics, you’ll find step-by-step notes, example JavaScript code, and resources for every session.  
 Follow along class by class to build a solid foundation in JavaScript 🚀
 
-cooking something big
+cooking something big from atik vai
